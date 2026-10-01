@@ -1,0 +1,31 @@
+# Local OS and Python artifacts
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Credentials and local settings
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+auth.json
+api_key.json
+credentials.json
+
+# Personal project outputs belong outside the reusable skill
+/private/
+/projects/
+/outputs/
+/releases/
+/qa/
+/profile.json
+/profile.js
+/project-brief.md
+/publish-files.json
+/manifest.json
+*.zip
