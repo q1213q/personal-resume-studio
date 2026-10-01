@@ -28,4 +28,6 @@ credentials.json
 /project-brief.md
 /publish-files.json
 /manifest.json
+wizard-answers.json
+hsk-publish.json
 *.zip
